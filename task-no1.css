@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(160, 169, 197);
+   
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+h5{
+    text-align: center;
+    color: green;
+    font-size: 20px;
+}
+#albert{
+    text-align: center;
+}
+#albert p{
+    text-align: center;
+    color:black;
+    
+}
+
+ul{
+    padding-right: 15px;
+}
+
+#h6{
+    font-size: 25px;
+    padding-left:32px;
+}
+#h6 p{
+font-size: 15px;
+color: black;
+}
+p{
+    color: rgb(158, 12, 85);
+}
+
