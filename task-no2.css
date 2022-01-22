@@ -1,9 +1,6 @@
 body{
-    padding: 75px;
+    padding:150px;
     background-color: peachpuff;
-}
-#field{
-    
 }
 fieldset{
     background-color: white;
@@ -18,15 +15,12 @@ h1{
 #field2 legend{
     font-weight: bold;
 }
-legend{
-    color: black;
-    
-}
 #field2{
     background-color: white;
 }
 #field5 button{
     background-color: red;
+    border: none;
 }
 #field5 legend{
     font-weight: bold;
@@ -34,5 +28,8 @@ legend{
 button{
     background-color: red;
         color: white;
+        border: none;
+        padding: 2px;
+        
     
 }
