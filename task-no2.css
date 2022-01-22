@@ -1,0 +1,38 @@
+body{
+    padding: 75px;
+    background-color: peachpuff;
+}
+#field{
+    
+}
+fieldset{
+    background-color: white;
+
+}
+
+h1{
+    font-family: georgia;
+    text-align: center;
+    background-color: white;
+}
+#field2 legend{
+    font-weight: bold;
+}
+legend{
+    color: black;
+    
+}
+#field2{
+    background-color: white;
+}
+#field5 button{
+    background-color: red;
+}
+#field5 legend{
+    font-weight: bold;
+}
+button{
+    background-color: red;
+        color: white;
+    
+}
